@@ -1,6 +1,9 @@
-# To see my project live click here https://hassanmohsini.github.io/stopwatch/
+# To see my project live click here 
+https://hassanmohsini.github.io/stopwatch/
 
-# My Project Screenshort
+# My Project Screenshot
+
+![Project Screenshot](Screenshot-stopwatch.png)
 
 
 
